@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-third/static/css/main.d9ab15c7.css",
+    "main.js": "/React-third/static/js/main.d1cad5bd.js",
+    "static/js/453.57322c99.chunk.js": "/React-third/static/js/453.57322c99.chunk.js",
+    "static/media/hero-bg.png": "/React-third/static/media/hero-bg.2c2c0ddd1c96b6d77f7f.png",
+    "static/media/asset 31.png": "/React-third/static/media/asset 31.4fb6897e3914374c76dc.png",
+    "static/media/abbt_img_3.png": "/React-third/static/media/abbt_img_3.9a50171422a71a44cd85.png",
+    "static/media/asset 16.png": "/React-third/static/media/asset 16.55eb7ea05d4be31eca91.png",
+    "static/media/abbt_img_2.png": "/React-third/static/media/abbt_img_2.ab674f1e2a581f6971bc.png",
+    "static/media/asset 3.png": "/React-third/static/media/asset 3.f1dca02f2dbac970bd96.png",
+    "static/media/asset 18.png": "/React-third/static/media/asset 18.b2d3c5e2e32730d9fc8b.png",
+    "static/media/asset 1.png": "/React-third/static/media/asset 1.b83d3da99bb030c8f38b.png",
+    "static/media/shape-1.png": "/React-third/static/media/shape-1.3350d3b3d568ae68d546.png",
+    "static/media/asset 17.png": "/React-third/static/media/asset 17.a77d241510c372b66a9d.png",
+    "static/media/e-coin.svg": "/React-third/static/media/e-coin.3ff70dcba959fb32728984dafe44cd65.svg",
+    "static/media/asset 5.svg": "/React-third/static/media/asset 5.9ca9f8ff3ba3829195ed128ef1b52181.svg",
+    "static/media/asset 9.svg": "/React-third/static/media/asset 9.3b08a504cc8ecae34b1f61a914199db9.svg",
+    "static/media/asset 15.svg": "/React-third/static/media/asset 15.7030f689f84955d4c0c5689a064b35cc.svg",
+    "static/media/asset 13.svg": "/React-third/static/media/asset 13.b5e52d93e27dc44f00d3b0e06501b843.svg",
+    "static/media/asset 7.svg": "/React-third/static/media/asset 7.f0f843ce71f4b35f2bd24b39cb603b3e.svg",
+    "static/media/asset 11.svg": "/React-third/static/media/asset 11.efa18343397819dbc111d726a6ba86e6.svg",
+    "static/media/OOpGa_icon_2.svg": "/React-third/static/media/OOpGa_icon_2.67c7185dfeb9f7301cdca7fa8699031b.svg",
+    "static/media/OOpGa_icon_3.svg": "/React-third/static/media/OOpGa_icon_3.5c90dd1e74ba84e352906617e549f99e.svg",
+    "index.html": "/React-third/index.html",
+    "static/media/OOpGa_icon.svg": "/React-third/static/media/OOpGa_icon.d0893914f36bd95ea80b299ab68a32cf.svg",
+    "main.d9ab15c7.css.map": "/React-third/static/css/main.d9ab15c7.css.map",
+    "main.d1cad5bd.js.map": "/React-third/static/js/main.d1cad5bd.js.map",
+    "453.57322c99.chunk.js.map": "/React-third/static/js/453.57322c99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ab15c7.css",
+    "static/js/main.d1cad5bd.js"
+  ]
+}
